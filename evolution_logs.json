@@ -1,0 +1,50 @@
+{
+    "total_generations": 3,
+    "champion": {
+        "d_model": 256,
+        "n_layer": 5,
+        "dropout": 0.058718123918798985
+    },
+    "all_runs": [
+        {
+            "id": 2,
+            "gen": 1,
+            "config": {
+                "d_model": 256,
+                "n_layer": 5,
+                "dropout": 0.1
+            },
+            "bpb": 3.5203
+        },
+        {
+            "id": 3,
+            "gen": 2,
+            "config": {
+                "d_model": 256,
+                "n_layer": 4,
+                "dropout": 0.1
+            },
+            "bpb": 3.5589
+        },
+        {
+            "id": 2,
+            "gen": 3,
+            "config": {
+                "d_model": 192,
+                "n_layer": 5,
+                "dropout": 0.1
+            },
+            "bpb": 3.712
+        },
+        {
+            "id": 3,
+            "gen": 3,
+            "config": {
+                "d_model": 256,
+                "n_layer": 5,
+                "dropout": 0.058718123918798985
+            },
+            "bpb": 3.5066
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "best_trial": {
+        "number": 6,
+        "params": {
+            "d_model": 512,
+            "n_layer": 4,
+            "dropout": 0.10372185825521328
+        },
+        "value": 3.2129
+    },
+    "all_trials": [
+        {
+            "number": 0,
+            "params": {
+                "d_model": 384,
+                "n_layer": 2,
+                "dropout": 0.22177246660095878
+            },
+            "value": 10.0
+        },
+        {
+            "number": 1,
+            "params": {
+                "d_model": 512,
+                "n_layer": 7,
+                "dropout": 0.07044394383059027
+            },
+            "value": 10.0
+        },
+        {
+            "number": 2,
+            "params": {
+                "d_model": 384,
+                "n_layer": 3,
+                "dropout": 0.19371596548892783
+            },
+            "value": 10.0
+        },
+        {
+            "number": 3,
+            "params": {
+                "d_model": 384,
+                "n_layer": 6,
+                "dropout": 0.13888888418371773
+            },
+            "value": 10.0
+        },
+        {
+            "number": 4,
+            "params": {
+                "d_model": 384,
+                "n_layer": 5,
+                "dropout": 0.05673403454412629
+            },
+            "value": 10.0
+        },
+        {
+            "number": 5,
+            "params": {
+                "d_model": 384,
+                "n_layer": 8,
+                "dropout": 0.14314968252364235
+            },
+            "value": 10.0
+        },
+        {
+            "number": 6,
+            "params": {
+                "d_model": 512,
+                "n_layer": 4,
+                "dropout": 0.10372185825521328
+            },
+            "value": 3.2129
+        },
+        {
+            "number": 7,
+            "params": {
+                "d_model": 128,
+                "n_layer": 4,
+                "dropout": 0.12268533735526055
+            },
+            "value": 4.1139
+        },
+        {
+            "number": 8,
+            "params": {
+                "d_model": 512,
+                "n_layer": 3,
+                "dropout": 0.218706147314621
+            },
+            "value": 10.0
+        },
+        {
+            "number": 9,
+            "params": {
+                "d_model": 512,
+                "n_layer": 3,
+                "dropout": 0.23701249718900957
+            },
+            "value": 3.3656
+        }
+    ]
+}
